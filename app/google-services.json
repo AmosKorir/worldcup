@@ -1,0 +1,129 @@
+{
+  "project_info": {
+    "project_number": "983629411303",
+    "firebase_url": "https://newworldcup-50b8f.firebaseio.com",
+    "project_id": "newworldcup-50b8f",
+    "storage_bucket": "newworldcup-50b8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983629411303:android:6f4b34df3382ccc7",
+        "android_client_info": {
+          "package_name": "fixtures.table.a2018.prediction.football.goal.cup.world.com.worldcup2018"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983629411303-tfthcf3jj58nr0vqqtp228stumpkefmn.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "983629411303-tfthcf3jj58nr0vqqtp228stumpkefmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM2trc-NFRxVll9RuIkKg1jR5YxHVBZrs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983629411303:android:ddfa370810775a25",
+        "android_client_info": {
+          "package_name": "fixtures.table.a2018.prediction.football.goal.cup.world.com.worldcup20182"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983629411303-tfthcf3jj58nr0vqqtp228stumpkefmn.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "983629411303-tfthcf3jj58nr0vqqtp228stumpkefmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM2trc-NFRxVll9RuIkKg1jR5YxHVBZrs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983629411303:android:d5081adfa30b249e",
+        "android_client_info": {
+          "package_name": "prediction.football.goal.cup.world.com.newworldcup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983629411303-ccn8sng1enlbe2885tm5l3me3v1b7qlh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "prediction.football.goal.cup.world.com.newworldcup",
+            "certificate_hash": "3d8ee521024c196102d3175331f15e3ad7b1320e"
+          }
+        },
+        {
+          "client_id": "983629411303-tfthcf3jj58nr0vqqtp228stumpkefmn.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "983629411303-tfthcf3jj58nr0vqqtp228stumpkefmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM2trc-NFRxVll9RuIkKg1jR5YxHVBZrs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983629411303-tfthcf3jj58nr0vqqtp228stumpkefmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

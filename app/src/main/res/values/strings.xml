@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">World Cup 2018</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="countries">
+
+        <item>Belgium</item>
+        <item>Moroco</item>
+        <item>Croatia</item>
+        <item>Denmark</item>
+        <item>England</item>
+        <item>France</item>
+        <item>Germany</item>
+        <item>Iceland</item>
+        <item>Poland</item>
+        <item>Portugal</item>
+        <item>Russia</item>
+        <item>Serbia</item>
+        <item>Spain</item>
+        <item>Sweden</item>
+        <item>Switzerland</item>
+        <item>Nigeria</item>
+        <item>Senegal</item>
+        <item>Tunisia</item>
+        <item>Australia</item>
+        <item>IR Iran</item>
+        <item>Japan</item>
+        <item>Korea Republic</item>
+        <item>Saudi Arabia</item>
+        <item>Costa Rica</item>
+        <item>Mexico</item>
+        <item>Panama</item>
+        <item>Argentina</item>
+        <item>Brazil</item>
+        <item>Colombia</item>
+        <item>Peru</item>
+        <item>Uruguay</item>
+        <item>Egypt</item>
+    </string-array>
+
+    <string-array name="group">
+        <item>Group A</item>
+        <item>Group B</item>
+        <item>Group C</item>
+        <item>Group D</item>
+        <item>Group E</item>
+        <item>Group F</item>
+        <item>Group G</item>
+        <item>Group H</item>
+
+    </string-array>
+    <string name="title_activity_ranking">Ranking</string>
+    <string name="title_activity_intro">Intro</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="banner">ca-app-pub-7788938439760564/1972949116</string>
+    <string name="inter">ca-app-pub-7788938439760564/9858629254</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
